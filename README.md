@@ -5,6 +5,8 @@
 ## Project Objective
 To conduct a comprehensive analysis of Blinkit Sales performance, Customer Satisfaction, and Inventory distribution to identify key insights and opportunities for optimization using various KPI’s and visualizations in Power BI.
 
+<img width="1376" height="708" alt="image" src="https://github.com/user-attachments/assets/982a73bb-ef28-421d-80f7-e6dd6db1f96b" />
+
 ---
 
 ## Key Performance Indicators (KPIs)
